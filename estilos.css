@@ -1,0 +1,60 @@
+
+.nav-link{
+    color: #272121;
+    border-top:0px;
+    border-bottom:0px;
+}
+
+.nav{
+padding: 0px;
+}
+
+
+.navbar{
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.imagen-bg{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.imagen-principal{
+    height: 35rem;
+    margin:0px;
+    padding: 0px;
+}
+
+.imagen-principal img{
+    width: 100%;
+    height: 100%;
+}
+
+.categorias h2{
+    font-size: 2.5rem;
+    color: #f7be16;
+}
+.categorias a{
+    font-weight: 400;
+    color: #272121;
+    text-decoration: none;
+}
+
+.nosotros .img-nosotros{
+     min-height: 30rem ;
+}
+
+.img-nosotros{
+    background-image: url(../img/living-room-2732939_1920.jpg);
+    
+}
+
+.btn-success{
+    background-color: #f7be16!important;
+}
+
+.footer{
+    background-color: #e5e5e5;
+}
